@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Vaibhav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_loading">Please Wait…</string>
+    <string name="label_interval">Interval: </string>
+    <string name="label_indicator_size">Indicator size: </string>
+    <string name="label_animate_indicators">Animate indicators: </string>
+    <string name="label_hide_indicators">Hide Indicators</string>
+    <string name="label_loop_slides">Loop slides: </string>
+    <string name="title_activity_day_1">day_1</string>
+    <string name="about">This event puts the students through a stimulated version of the campus placement
+process.Begining with an aptitude test,the participiants will go on to appear for
+group discussions and evevntually sit for personal interviews.</string>
+    <string name="judgingCriteria"> -> First of all, participiants will be shortlisted on the basis of curriculum vitae.\n\n
+        -> The Aptitude and English Proficiency Test and the Group Discussion will be the
+elimination round through which participiants will be selected for the Personal
+Interview.\n\n
+ -> The 2-5 participiants will get a certificate of merit; however, each of the
+participiants will receive the certificate of participation.\n\n
+ -> Any misbehaviour would automatically lead to disqualification.\n\n</string>
+    <string name="rules">Round 1:\n
+   -> The format of the curriculum vitae will be provided immediately after registration
+ which participants have to fill sincerely and proceed further.\n
+  ->The prelimiary round will be an Aptitude and English Proficiency Test round.\n\n
+  Round 2:\n
+   -> The next challenge is the Group Discussion(GD) round, where participiants
+ will be divided into certain number of groups to discuss certain topics, which will be
+provided on the spot.\n\n
+  Round 3:\n
+   -> And the final round is the Persional Interview.Both HR and Technical interviews will
+be conducted in a stimulated environment.\n\n
+</string>
+    <string name="prizes">1st Prize: ₹1500
+    \n2nd Prize: ₹1000
+    \n3rd Prize: ₹500
+    </string>
+    <string name="contactUs">Contacts:\n
+Nayan Gupta:9462303121\n
+Abhishek Kumar:9472314440\n
+Abhishek:9729935020\n</string>
+    <string name="about1"> Tired of rigmarole core subjects ?Don’t worry! If you have at least superficial knowledge of coding in tandem with mind as sharp as Holmes then this event belongs to you. It will test your programming skills and your acquaintance with IT field . Accomplish your dream of becoming an flamboyant coder. The repercussions shall be enhanced programming skills and  broadened sense to solve aptitude questions to boost your career and win prizes.</string>
+    <string name="rules1">1.Number of members in a team should be three.
+2.Using any unfair means will lead to disqualification of the team.
+3.In 1st round the scores(questions solved +Time taken) of all the three individual members of the team will be added to get cumulative score of the team.
+4.70% seats in the 2nd round will be reserved for 1st years.\n
+    Event rounds: It consist of three rounds..
+1 . Relay race--> In this each team will get a set of questions. And each participant have to solve his piece of question,just like relay race......
+2.  Code-e-trical-->Team passing round 1 will participate in coding competition, in which they have to solve competitive coding questions.
+3.Surprise round--> Information regarding this round will be given on-the-spot .</string>
+    <string name="judgingCriteria1">1.For 1st and 2nd rounds teams solving the maximum numbers of questions within minimum amount of time will go in the further round.
+2.In second round participants have to pass all the given test cases to get full marks.
+3.Information regarding "Surprise Round" will be given on-the-spot.</string>
+    <string name="prizes1">1st Prize: ₹1500
+    \n2nd Prize: ₹1000
+    \n3rd Prize: ₹500
+    </string>
+    <string name="contactUs1">Avinash Chandrakar(3rd year)
+7808747800
+Sushant Pandey(2nd Year)
+9304147910
+Navneet Das(2nd year)
+8802151814</string>
+    <string name="title_activity_day_2">day_2</string>
+    <string name="title_activity_hub">hub</string>
+    <string name="title_activity_placement_fever">Placement Fever</string>
+</resources>

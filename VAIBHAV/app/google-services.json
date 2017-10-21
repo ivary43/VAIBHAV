@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656613661320",
+    "firebase_url": "https://vaibhav-d2cdc.firebaseio.com",
+    "project_id": "vaibhav-d2cdc",
+    "storage_bucket": "vaibhav-d2cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656613661320:android:1353e90e25b7c97b",
+        "android_client_info": {
+          "package_name": "com.example.prajwal.vaibhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656613661320-n0ghorq9gr7onnch3369tsea00lubcue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GqfrclVkrQLCZss1q_Dg90m357mB7mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

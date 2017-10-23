@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Vaibhav</string>
+    <string name="app_name">Vibhav 2K17</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -12,6 +13,18 @@
     <string name="label_hide_indicators">Hide Indicators</string>
     <string name="label_loop_slides">Loop slides: </string>
     <string name="title_activity_day_1">day_1</string>
+
+    <string-array name="fest">
+        <item>Technical</item>
+        <item>Coding</item>
+        <item>Virtual Stock</item>
+        <item>Robotics</item>
+        <item>Placement Fever</item>
+        <item>Gaming</item>
+        <item>Workshop</item>
+        <item>Paper Presentation</item>
+        <item>Treasure Hunt</item>
+    </string-array>
     <string name="about">This event puts the students through a stimulated version of the campus placement
 process.Begining with an aptitude test,the participiants will go on to appear for
 group discussions and evevntually sit for personal interviews.</string>
@@ -42,29 +55,47 @@ be conducted in a stimulated environment.\n\n
 Nayan Gupta:9462303121\n
 Abhishek Kumar:9472314440\n
 Abhishek:9729935020\n</string>
-    <string name="about1"> Tired of rigmarole core subjects ?Don’t worry! If you have at least superficial knowledge of coding in tandem with mind as sharp as Holmes then this event belongs to you. It will test your programming skills and your acquaintance with IT field . Accomplish your dream of becoming an flamboyant coder. The repercussions shall be enhanced programming skills and  broadened sense to solve aptitude questions to boost your career and win prizes.</string>
-    <string name="rules1">1.Number of members in a team should be three.
-2.Using any unfair means will lead to disqualification of the team.
-3.In 1st round the scores(questions solved +Time taken) of all the three individual members of the team will be added to get cumulative score of the team.
+    <string name="about1"> Tired of rigmarole core subjects ?Don’t worry! If you have at least superficial knowledge of coding in tandem with mind as sharp as Holmes then this event belongs to you. \n It will test your programming skills and your acquaintance with IT field . \nAccomplish your dream of becoming an flamboyant coder.\n The repercussions shall be enhanced programming skills and  broadened sense to solve aptitude questions to boost your career and win prizes.</string>
+    <string name="rules1">1.Number of members in a team should be three.\n
+2.Using any unfair means will lead to disqualification of the team.\n
+3.In 1st round the scores(questions solved +Time taken) of all the three individual members of the team will be added to get cumulative score of the team.\n
 4.70% seats in the 2nd round will be reserved for 1st years.\n
-    Event rounds: It consist of three rounds..
-1 . Relay race--> In this each team will get a set of questions. And each participant have to solve his piece of question,just like relay race......
-2.  Code-e-trical-->Team passing round 1 will participate in coding competition, in which they have to solve competitive coding questions.
+    Event rounds: It consist of three rounds..\n
+1 . Relay race--> In this each team will get a set of questions. And each participant have to solve his piece of question,just like relay race......\n
+2.  Code-e-trical-->Team passing round 1 will participate in coding competition, in which they have to solve competitive coding questions.\n
 3.Surprise round--> Information regarding this round will be given on-the-spot .</string>
-    <string name="judgingCriteria1">1.For 1st and 2nd rounds teams solving the maximum numbers of questions within minimum amount of time will go in the further round.
-2.In second round participants have to pass all the given test cases to get full marks.
+    <string name="judgingCriteria1">1.For 1st and 2nd rounds teams solving the maximum numbers of questions within minimum amount of time will go in the further round.\n
+2.In second round participants have to pass all the given test cases to get full marks.\n
 3.Information regarding "Surprise Round" will be given on-the-spot.</string>
     <string name="prizes1">1st Prize: ₹1500
     \n2nd Prize: ₹1000
     \n3rd Prize: ₹500
     </string>
-    <string name="contactUs1">Avinash Chandrakar(3rd year)
-7808747800
-Sushant Pandey(2nd Year)
-9304147910
-Navneet Das(2nd year)
+    <string name="contactUs1">Avinash Chandrakar(3rd year)\n
+7808747800\n
+
+Sushant Pandey(2nd Year)\n
+9304147910\n
+Navneet Das(2nd year)\n
 8802151814</string>
     <string name="title_activity_day_2">day_2</string>
     <string name="title_activity_hub">hub</string>
     <string name="title_activity_placement_fever">Placement Fever</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about2">online trading event</string>
+    <string name="rules2">play the event</string>
+    <string name="judgingCriteria2">jude the event</string>
+    <string name="prizes2">prizes won</string>
+    <string name="contactUs2">contact on 7376099064</string>
+    <string name="about3">Paper presentation is an event in which a team has to present a paper on any general topic,for e.g academic dishonesty,
+        foreign exchange management etc., within a specified time limit.</string>
+    <string name="rules3">\n ->>Each team must not contain more than 3 members.\n ->>Each team must mail their papers before the deadline from amongst which paper would be selected for presentation round.\n ->> The paper must contain atleast 200 words.\n ->> Each team would be allotted max. 10 min.</string>
+    <string name="judgingCriteria3">For presentation and after that question will be asked from judges for 2 minutes.</string>
+    <string name="contactUs3">Vikas:9852694905,7015535095\\nVikassihag999@gmail.com</string>
+    <string name="about7">Spread over the Campus, the questions would lead from one clue to another, masked by electrical riddles, making the event department centric and the participants would have to collect all the seven clues viz a viz horcruxes, to defeat the final dark Lord, resistance.</string>
+    <string name="rules7">Search for clues and solve them all at the earliest to win.</string>
+    <string name="judgingCriteria7">None.</string>
+    <string name="contactUs7">KSHITIJ : 9648025056,7355395147 \n AHASAS : 7294875007</string>
 </resources>
